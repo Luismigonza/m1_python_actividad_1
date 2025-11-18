@@ -35,3 +35,7 @@ while True:
     if continuar != "s":
         print("\nGracias por su compra. ¡Hasta luego!")
         break
+    
+
+
+#prueba cambio
